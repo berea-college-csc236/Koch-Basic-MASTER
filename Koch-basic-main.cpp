@@ -1,7 +1,7 @@
 /* Author: Jesse W. Walker
  * Derived from Python code from http://openbookproject.net/thinkcs/python/english3e/recursion.html
  * and  http://cs.berea.edu/courses/csc226/tasks/koch-curve.py
- */
+ */ 
 
 #include "CTurtle.hpp"
 namespace ct = cturtle;

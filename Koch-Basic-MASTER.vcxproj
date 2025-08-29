@@ -132,6 +132,10 @@
   <ItemGroup>
     <ClCompile Include="Koch-basic-main.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CImg.h" />
+    <ClInclude Include="CTurtle.hpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
